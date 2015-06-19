@@ -1,0 +1,25 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434756635102">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="3782410526" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="scan-jun-17,-2015,-9_50-pm.pdf" crc="4258571116" mt="1434603091000"/>
+    <file name="scan-jun-17,-2015,-9_50-pm2.pdf" crc="4258571116" mt="1434603115000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index"/>
+    <file name="museutils.js" crc="212726984" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo deep blue copy.png" crc="153430056" ref="index"/>
+    <file name="ball_gre.gif" crc="215533409" ref="index"/>
+    <file name="scan jun 19, 2015, 11_45 am-page4.jpg" crc="3971838767" ref="index"/>
+    <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="330338519" ref="index"/>
+    <file name="scan jun 17, 2015, 9_50 pm.jpg" crc="233267657" ref="index"/>
+    <file name="img_2541.jpg" crc="4105995107" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3867933888" mt="1434756528686" redirect="true"/>
+</manifest>
