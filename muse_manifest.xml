@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434756635102">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434762634134">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="3782410526" ref="index"/>
@@ -21,5 +21,5 @@
     <file name="scan jun 17, 2015, 9_50 pm.jpg" crc="233267657" ref="index"/>
     <file name="img_2541.jpg" crc="4105995107" ref="index"/>
   </folder>
-  <file name="index.html" crc="3867933888" mt="1434756528686" redirect="true"/>
+  <file name="index.html" crc="481839300" mt="1434756853261" redirect="true"/>
 </manifest>
