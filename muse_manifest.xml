@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434766419987">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434766825271">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="380394450" ref="index"/>
@@ -24,9 +24,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="168455865" ref="phone>index"/>
+      <file name="index.css" crc="4060859016" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4018664541" mt="1434766251644" redirect="true"/>
+    <file name="index.html" crc="4044241862" mt="1434766810629" redirect="true"/>
   </folder>
   <file name="index.html" crc="30299893" mt="1434765732056" redirect="true"/>
 </manifest>
