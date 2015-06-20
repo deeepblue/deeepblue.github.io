@@ -1,7 +1,7 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434768302133">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1434768666540">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="4290366557" ref="index"/>
+    <file name="index.css" crc="503660458" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="scan-jun-17,-2015,-9_50-pm.pdf" crc="4258571116" mt="1434603091000"/>
@@ -15,6 +15,7 @@
     <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="213953220" ref="phone>index"/>
     <file name="logo deep blue copy.png" crc="153430056" ref="phone>index:index"/>
     <file name="ball_gre.gif" crc="215533409" ref="phone>index:index"/>
     <file name="scan jun 19, 2015, 11_45 am-page4.jpg" crc="3971838767" ref="phone>index:index"/>
@@ -26,7 +27,7 @@
     <folder name="css">
       <file name="index.css" crc="4060859016" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4044241862" mt="1434766810629" redirect="true"/>
+    <file name="index.html" crc="4265184438" mt="1434768660893" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3899459297" mt="1434768294267" redirect="true"/>
+  <file name="index.html" crc="269411521" mt="1434768660897" redirect="true"/>
 </manifest>
