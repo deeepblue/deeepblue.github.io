@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #053FAA;
+	color: #000003;
+	background-color: #3195C7;
 }
 
 .html
@@ -214,11 +214,19 @@
 	position: relative;
 }
 
+#u498
+{
+	z-index: 119;
+	width: 14px;
+	margin-top: 1px;
+	position: relative;
+}
+
 #u301
 {
 	z-index: 117;
 	width: 14px;
-	margin-top: 3px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -363,11 +371,23 @@
 	position: relative;
 }
 
-#u300-4
+#u501-4
 {
-	z-index: 129;
+	z-index: 137;
 	width: 200px;
 	color: #0000FF;
+	top: -2px;
+	margin-bottom: -2px;
+	position: relative;
+}
+
+#u300-4
+{
+	z-index: 131;
+	width: 200px;
+	color: #0000FF;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
@@ -400,7 +420,7 @@
 
 #u291-4
 {
-	z-index: 121;
+	z-index: 123;
 	width: 200px;
 	color: #0000FF;
 	top: -1px;
@@ -410,7 +430,7 @@
 
 #u296-4
 {
-	z-index: 125;
+	z-index: 127;
 	width: 200px;
 	color: #0000FF;
 	position: relative;
@@ -435,19 +455,19 @@
 	left: 292px;
 }
 
-#u255
+#u489
 {
-	z-index: 119;
-	width: 302px;
+	z-index: 135;
+	width: 304px;
 	position: relative;
 	margin-right: -10000px;
-	left: 402px;
+	left: 399px;
 }
 
 #pu304-4
 {
 	width: 0.01px;
-	margin-top: 45px;
+	margin-top: 44px;
 }
 
 #u304-4
@@ -469,9 +489,19 @@
 	left: -47px;
 }
 
-#u174,#u163,#u160,#u159,#u158,#u161,#u165,#u162,#u166,#u170,#u176,#u300,#u164,#u182,#u183,#u291,#u296,#u305,#u304
+#u174,#u163,#u160,#u159,#u158,#u161,#u165,#u162,#u166,#u170,#u176,#u501,#u300,#u164,#u182,#u183,#u291,#u296,#u305,#u304
 {
 	text-decoration: underline;
+}
+
+#u255
+{
+	z-index: 121;
+	width: 302px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 52px;
 }
 
 #u104
@@ -480,7 +510,14 @@
 	width: 303px;
 	position: relative;
 	margin-right: -10000px;
-	left: 51px;
+	left: 401px;
+}
+
+#pu146
+{
+	width: 0.01px;
+	margin-left: 51px;
+	margin-top: 45px;
 }
 
 #u146
@@ -494,16 +531,16 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 44px;
-	left: 355px;
+	left: -44px;
 }
 
 #u152
 {
 	z-index: 13;
 	width: 304px;
-	margin-left: 400px;
-	margin-top: 45px;
 	position: relative;
+	margin-right: -10000px;
+	left: 349px;
 }
 
 body
@@ -511,6 +548,7 @@ body
 	position: relative;
 	min-width: 960px;
 	padding-top: 54px;
+	padding-bottom: 52px;
 }
 
 #page .verticalspacer
