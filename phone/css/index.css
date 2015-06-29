@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #1945C4;
+	color: #0000F2;
+	background-color: #0BCA88;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 2757px;
+	min-height: 570px;
 }
 
 #page_position_content
@@ -338,25 +338,6 @@
 	left: 19px;
 }
 
-#u514
-{
-	z-index: 133;
-	width: 14px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 2px;
-}
-
-#u516-4
-{
-	z-index: 135;
-	width: 200px;
-	color: #0000FF;
-	position: relative;
-	margin-right: -10000px;
-	left: 18px;
-}
-
 #u422
 {
 	z-index: 119;
@@ -376,7 +357,7 @@
 	left: 19px;
 }
 
-#pu514,#pu406
+#pu406
 {
 	width: 0.01px;
 	margin-left: 38px;
@@ -440,7 +421,7 @@
 	left: 19px;
 }
 
-#pu410,#pu422,#pu418
+#pu410,#pu418
 {
 	width: 0.01px;
 	margin-left: 38px;
@@ -466,7 +447,7 @@
 	left: 18px;
 }
 
-#pu414,#pu416,#pu420
+#pu422,#pu414,#pu416,#pu420
 {
 	width: 0.01px;
 	margin-left: 38px;
@@ -494,7 +475,7 @@
 #pu354-4
 {
 	width: 0.01px;
-	margin-top: 26px;
+	margin-top: 40px;
 }
 
 #u354-4
@@ -516,10 +497,10 @@
 	left: -55px;
 }
 
-#u518
+#u366
 {
-	z-index: 139;
-	width: 304px;
+	z-index: 59;
+	width: 302px;
 	position: relative;
 	margin-right: -10000px;
 	left: 38px;
@@ -528,7 +509,7 @@
 #pu355-4
 {
 	width: 0.01px;
-	margin-top: 31px;
+	margin-top: 32px;
 }
 
 #u355-4
@@ -550,27 +531,18 @@
 	left: -47px;
 }
 
-#u353,#u352,#u351,#u350,#u349,#u391,#u394,#u392,#u395,#u396,#u397,#u516,#u426,#u393,#u398,#u399,#u424,#u425,#u354,#u355
+#u353,#u352,#u351,#u350,#u349,#u391,#u394,#u392,#u395,#u396,#u397,#u426,#u393,#u398,#u399,#u424,#u425,#u354,#u355
 {
 	text-decoration: underline;
-}
-
-#u366
-{
-	z-index: 59;
-	width: 302px;
-	position: relative;
-	margin-right: -10000px;
-	left: 38px;
 }
 
 #u341
 {
 	z-index: 8;
 	width: 303px;
-	margin-left: 38px;
-	margin-top: 33px;
 	position: relative;
+	margin-right: -10000px;
+	left: 38px;
 }
 
 #u345
@@ -582,7 +554,7 @@
 	-o-transform: matrix(0,1,-1,0,348,-44);
 	transform: matrix(0,1,-1,0,348,-44);
 	left: -6px;
-	margin-top: 76px;
+	margin-top: 77px;
 	margin-bottom: 44px;
 	position: relative;
 }

@@ -1,7 +1,7 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435556245819">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435561789172">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="416669317" ref="index"/>
+    <file name="index.css" crc="302106776" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="scan-jun-17,-2015,-9_50-pm2.pdf" crc="4258571116" mt="1434603115000"/>
@@ -14,20 +14,20 @@
     <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="213953220" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="213953220" ref="phone>index"/>
     <file name="logo deep blue copy.png" crc="153430056" ref="phone>index:index"/>
     <file name="ball_gre.gif" crc="215533409" ref="phone>index:index"/>
     <file name="scan jun 19, 2015, 11_45 am-page4.jpg" crc="3971838767" ref="phone>index:index"/>
     <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="330338519" ref="phone>index:index"/>
     <file name="scan jun 17, 2015, 9_50 pm.jpg" crc="233267657" ref="phone>index:index"/>
     <file name="img_2541.jpg" crc="4105995107" ref="phone>index:index"/>
-    <file name="joooooop.jpg" crc="47222140" ref="phone>index:index"/>
+    <file name="joooooop.jpg" crc="36807168" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4212737476" ref="phone>index"/>
+      <file name="index.css" crc="4060859016" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3913171736" mt="1435462307708" redirect="true"/>
+    <file name="index.html" crc="4265184438" mt="1434768660893" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4170043004" mt="1435556196869" redirect="true"/>
+  <file name="index.html" crc="307920854" mt="1435561739626" redirect="true"/>
 </manifest>
