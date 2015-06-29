@@ -1,7 +1,7 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435555983743">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1435556245819">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="3807094823" ref="index"/>
+    <file name="index.css" crc="416669317" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="scan-jun-17,-2015,-9_50-pm2.pdf" crc="4258571116" mt="1434603115000"/>
@@ -29,5 +29,5 @@
     </folder>
     <file name="index.html" crc="3913171736" mt="1435462307708" redirect="true"/>
   </folder>
-  <file name="index.html" crc="155764434" mt="1435555962183" redirect="true"/>
+  <file name="index.html" crc="4170043004" mt="1435556196869" redirect="true"/>
 </manifest>
