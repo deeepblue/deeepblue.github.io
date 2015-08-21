@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000013;
-	background-color: #44F024;
+	color: #0000F4;
+	background-color: #8C11C1;
 }
 
 .html
@@ -50,7 +50,7 @@
 
 #u134
 {
-	z-index: 4;
+	z-index: 6;
 	width: 692px;
 	min-height: 160px;
 	border-style: none;
@@ -62,11 +62,11 @@
 
 #u180-4
 {
-	z-index: 17;
+	z-index: 19;
 	width: 169px;
 	min-height: 8px;
-	line-height: 12px;
 	font-size: 10px;
+	line-height: 12px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
@@ -97,8 +97,8 @@
 	z-index: 69;
 	width: 143px;
 	min-height: 17px;
-	color: #0000FF;
 	line-height: 36px;
+	color: #0000FF;
 	font-size: 30px;
 	font-style: italic;
 	-webkit-transform: matrix(0,-1,1,0,54,90);
@@ -446,11 +446,11 @@
 
 #u305-4
 {
-	z-index: 9;
+	z-index: 11;
 	width: 145px;
 	min-height: 17px;
-	color: #0000FF;
 	line-height: 36px;
+	color: #0000FF;
 	font-size: 30px;
 	font-style: italic;
 	-webkit-transform: matrix(0,-1,1,0,55,91);
@@ -463,12 +463,13 @@
 	left: 293px;
 }
 
-#u570
+#u769
 {
-	z-index: 25;
+	z-index: 2;
 	width: 304px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	left: 398px;
 }
 
@@ -480,11 +481,11 @@
 
 #u304-4
 {
-	z-index: 13;
+	z-index: 15;
 	width: 129px;
 	min-height: 36px;
-	color: #0000FF;
 	line-height: 36px;
+	color: #0000FF;
 	font-size: 30px;
 	font-style: italic;
 	-webkit-transform: matrix(0,-1,1,0,47,83);
@@ -504,7 +505,7 @@
 
 #u489
 {
-	z-index: 23;
+	z-index: 25;
 	width: 301px;
 	position: relative;
 	margin-right: -10000px;
@@ -513,7 +514,7 @@
 
 #u255
 {
-	z-index: 21;
+	z-index: 23;
 	width: 302px;
 	position: relative;
 	margin-right: -10000px;
@@ -529,7 +530,7 @@
 
 #u104
 {
-	z-index: 2;
+	z-index: 4;
 	width: 303px;
 	position: relative;
 	margin-right: -10000px;
@@ -537,7 +538,7 @@
 
 #u146
 {
-	z-index: 5;
+	z-index: 7;
 	width: 392px;
 	-webkit-transform: matrix(0,1,-1,0,348,-44);
 	-ms-transform: matrix(0,1,-1,0,348,-44);
@@ -551,7 +552,7 @@
 
 #u152
 {
-	z-index: 7;
+	z-index: 9;
 	width: 304px;
 	margin-left: 54px;
 	margin-top: 45px;
