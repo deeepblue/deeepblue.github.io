@@ -1,7 +1,7 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1441851301053">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1442025977708">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="530073107" ref="index"/>
+    <file name="index.css" crc="3995286722" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="scan-jun-17,-2015,-9_50-pm2.pdf" crc="4258571116" mt="1434603115000"/>
@@ -14,7 +14,7 @@
     <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="213953220" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="213953220" ref="phone>index"/>
     <file name="ball_gre.gif" crc="215533409" ref="phone>index:index"/>
     <file name="scan jun 19, 2015, 11_45 am-page4.jpg" crc="3971838767" ref="phone>index"/>
     <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="330338519" ref="phone>index:index"/>
@@ -27,12 +27,13 @@
     <file name="logo.jpg" crc="4204193450" ref="index"/>
     <file name="final flyer.jpg" crc="3909144369" ref="index"/>
     <file name="nap flyer alternative.jpg" crc="367812984" ref="index"/>
+    <file name="plushparty.gif" crc="4026624589" ref="phone>index:index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3786864000" ref="phone>index"/>
+      <file name="index.css" crc="3966380665" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3983526703" mt="1439973817264" redirect="true"/>
+    <file name="index.html" crc="3781301102" mt="1442025937463" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3782085528" mt="1441851300355" redirect="true"/>
+  <file name="index.html" crc="304725455" mt="1442025965463" redirect="true"/>
 </manifest>

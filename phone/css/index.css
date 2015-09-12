@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E1;
-	background-color: #B6F580;
+	color: #0000EC;
+	background-color: #6A2A79;
 }
 
 @-ms-viewport
@@ -38,7 +38,8 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 3302px;
+	min-height: 3301.9957910120484px;
+	padding-bottom: 0px;
 }
 
 #page_position_content
@@ -84,8 +85,8 @@
 	z-index: 41;
 	width: 180px;
 	min-height: 22px;
-	line-height: 12px;
 	font-size: 10px;
+	line-height: 12px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
@@ -110,8 +111,8 @@
 	width: 152px;
 	min-height: 17px;
 	color: #0000FF;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	font-style: italic;
 	margin-left: 38px;
 	margin-top: 41px;
@@ -385,7 +386,7 @@
 	margin-top: 2px;
 }
 
-#u399-5
+#u803-5
 {
 	z-index: 87;
 	width: 245px;
@@ -452,25 +453,21 @@
 	width: 146px;
 	min-height: 17px;
 	color: #0000FF;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	font-style: italic;
 	margin-left: 38px;
-	margin-top: 27px;
+	margin-top: 15px;
 	position: relative;
 }
 
-#u758
+#u799
 {
-	z-index: 130;
-	width: 302px;
+	z-index: 134;
+	width: 304px;
 	margin-left: 38px;
+	margin-top: 15px;
 	position: relative;
-}
-
-#u758_img
-{
-	padding-bottom: 1px;
 }
 
 #u355-4
@@ -479,11 +476,11 @@
 	width: 129px;
 	min-height: 36px;
 	color: #0000FF;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	font-style: italic;
 	margin-left: 38px;
-	margin-top: 27px;
+	margin-top: 16px;
 	position: relative;
 }
 
@@ -492,13 +489,26 @@
 	text-decoration: underline;
 }
 
+#u758
+{
+	z-index: 130;
+	width: 302px;
+	margin-left: 38px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u758_img
+{
+	padding-bottom: 1px;
+}
+
 #u557
 {
 	z-index: 128;
 	width: 301px;
 	margin-left: 39px;
-	top: -4px;
-	margin-bottom: -4px;
+	margin-top: 32px;
 	position: relative;
 }
 
@@ -516,7 +526,7 @@
 	z-index: 2;
 	width: 303px;
 	margin-left: 38px;
-	margin-top: 33px;
+	margin-top: 32px;
 	position: relative;
 }
 
@@ -529,7 +539,7 @@
 	-o-transform: matrix(0,1,-1,0,348,-44);
 	transform: matrix(0,1,-1,0,348,-44);
 	left: -6px;
-	margin-top: 76px;
+	margin-top: 77px;
 	margin-bottom: 44px;
 	position: relative;
 }
@@ -539,7 +549,7 @@
 	z-index: 7;
 	width: 304px;
 	margin-left: 38px;
-	margin-top: 32px;
+	margin-top: 31px;
 	position: relative;
 }
 
