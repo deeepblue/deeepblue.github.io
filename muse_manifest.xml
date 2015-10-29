@@ -1,39 +1,36 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1442025977708">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1446095784454">
   <folder name="css">
-    <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="3995286722" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="scan-jun-17,-2015,-9_50-pm2.pdf" crc="4258571116" mt="1434603115000"/>
+    <file name="site_global.css" crc="208753328"/>
+    <file name="index.css" crc="472797200" ref="index"/>
+    <file name="about.css" crc="476780979" ref="about"/>
+    <file name="archives.css" crc="4244130039" ref="archives"/>
+    <file name="artists.css" crc="4259739233" ref="artists"/>
+    <file name="mixes.css" crc="365418475" ref="mixes"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:index"/>
-    <file name="museutils.js" crc="212726984" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:index"/>
-    <file name="museredirect.js" crc="3986430445" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:archives:about:mixes:artists"/>
+    <file name="museutils.js" crc="212726984" ref="index:archives:about:mixes:artists"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:archives:about:mixes:artists"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="index:mixes"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="213953220" ref="phone>index"/>
-    <file name="ball_gre.gif" crc="215533409" ref="phone>index:index"/>
-    <file name="scan jun 19, 2015, 11_45 am-page4.jpg" crc="3971838767" ref="phone>index"/>
-    <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="330338519" ref="phone>index:index"/>
-    <file name="scan jun 17, 2015, 9_50 pm.jpg" crc="233267657" ref="phone>index:index"/>
-    <file name="img_2541.jpg" crc="4105995107" ref="phone>index:index"/>
-    <file name="joooooop.jpg" crc="36807168" ref="phone>index:index"/>
-    <file name="screen shot 2015-07-09 at 53251 pm.jpg" crc="800946" ref="index"/>
-    <file name="logo154x360.jpg" crc="3958601294" ref="phone>index"/>
-    <file name="08_22_15.jpg" crc="358891230" ref="phone>index"/>
-    <file name="logo.jpg" crc="4204193450" ref="index"/>
-    <file name="final flyer.jpg" crc="3909144369" ref="index"/>
-    <file name="nap flyer alternative.jpg" crc="367812984" ref="index"/>
-    <file name="plushparty.gif" crc="4026624589" ref="phone>index:index"/>
+    <file name="favicon.ico" crc="419847451" ref="index"/>
+    <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="330338519" ref="archives"/>
+    <file name="img_2541.jpg" crc="4105995107" ref="archives"/>
+    <file name="joooooop.jpg" crc="36807168" ref="archives"/>
+    <file name="final flyer.jpg" crc="3909144369" ref="archives"/>
+    <file name="deepblue2.jpg" crc="478011797" ref="index"/>
+    <file name="logo.png" crc="3768106124" ref="index"/>
+    <file name="digitalpromo.png" crc="502999366" ref="archives"/>
+    <file name="12169600_961623600546351_254669798_o.jpg" crc="196333027" ref="about"/>
+    <file name="mixes-favicon.ico" crc="4287277662" ref="mixes"/>
+    <file name="lightning-010.gif" crc="235895460" ref="mixes"/>
+    <file name="tr-909.gif" crc="3785235343" ref="mixes"/>
+    <file name="tumblr_m9hjukpvet1qgyb21o1_500.gif" crc="307834496" ref="artists"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="3966380665" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="3781301102" mt="1442025937463" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="304725455" mt="1442025965463" redirect="true"/>
+  <file name="index.html" crc="133628670" mt="1446095716343" redirect="true"/>
+  <file name="archives.html" crc="160731715" mt="1446091991974" redirect="true"/>
+  <file name="about.html" crc="4008337538" mt="1446095710740" redirect="true"/>
+  <file name="mixes.html" crc="430450363" mt="1446092375768" redirect="true"/>
+  <file name="artists.html" crc="265803406" mt="1446095153721" redirect="true"/>
 </manifest>
