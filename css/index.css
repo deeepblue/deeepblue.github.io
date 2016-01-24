@@ -89,6 +89,7 @@
 	width: 2591px;
 	left: -60px;
 	position: relative;
+	pointer-events: none;
 }
 
 #pu1401-6
