@@ -1,12 +1,12 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1453603463004">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1453604214544">
   <folder name="phone">
     <folder name="css">
       <file name="091315.css" crc="3917511576" ref="phone>091315"/>
       <file name="013015.css" crc="441325172" ref="phone>013015"/>
-      <file name="index.css" crc="3959265004" ref="phone>index"/>
+      <file name="index.css" crc="3930826803" ref="phone>index"/>
       <file name="082215.css" crc="3981143037" ref="phone>082215"/>
     </folder>
-    <file name="index.html" crc="4238533545" mt="1453602009207" redirect="true"/>
+    <file name="index.html" crc="5455505" mt="1453604204296" redirect="true"/>
     <file name="013015.html" crc="3947487925" mt="1453602467539" redirect="false"/>
     <file name="091315.html" crc="4257437491" mt="1453602580062" redirect="true"/>
     <file name="082215.html" crc="432656555" mt="1453602331757" redirect="true"/>
@@ -23,7 +23,6 @@
     <file name="museutils.js" crc="212726984" ref="index:phone>index:phone>013015:phone>091315:phone>082215:013015:091315:082215"/>
     <file name="jquery.watch.js" crc="4125239756" ref="index:phone>index:phone>013015:phone>091315:phone>082215:013015:091315:082215"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="phone>091315:091315"/>
-    <file name="jquery.scrolleffects.js" crc="519931148" ref="phone>index"/>
     <file name="museredirect.js" crc="3986430445" ref="index:091315:082215"/>
   </folder>
   <folder name="images">
@@ -33,7 +32,6 @@
     <file name="joooooop.jpg" crc="4219194590" ref="phone>index:index"/>
     <file name="final flyer.jpg" crc="3923751767" ref="phone>index:index"/>
     <file name="digitalpromo.png" crc="4175656692" ref="phone>index:index"/>
-    <file name="logo 2-crop-u1935.png" crc="142146417" ref="phone>index"/>
     <file name="img_0616.jpg" crc="254540498" ref="phone>index:index"/>
     <file name="unnamed-2.jpg" crc="4213031713" ref="phone>index:index"/>
     <file name="nap flyer alternative.jpg" crc="416093659" ref="phone>index:index"/>
@@ -45,8 +43,9 @@
     <file name="rear final with stretches.jpg" crc="322824270" ref="phone>082215:082215"/>
     <file name="logo 2-crop-u1589.png" crc="391144771" ref="index"/>
     <file name="img_25413.jpg" crc="4105995107" ref="013015"/>
+    <file name="logo 2 rotate.png" crc="155854386" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="3918812888" mt="1453602726685" redirect="true"/>
+  <file name="index.html" crc="96641368" mt="1453603657780" redirect="true"/>
   <file name="013015.html" crc="4266785554" mt="1453602726686" redirect="false"/>
   <file name="091315.html" crc="242378282" mt="1453602726687" redirect="true"/>
   <file name="082215.html" crc="3990280654" mt="1453602726687" redirect="true"/>

@@ -37,12 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.deeep.blue/images/logo%202-crop-u1935.png</loc>
-    <lastmod>2016-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.deeep.blue/images/img_0616.jpg</loc>
     <lastmod>2016-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +98,12 @@
   </url>
   <url>
     <loc>http://www.deeep.blue/images/img_25413.jpg</loc>
+    <lastmod>2016-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.deeep.blue/images/logo%202%20rotate.png</loc>
     <lastmod>2016-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
