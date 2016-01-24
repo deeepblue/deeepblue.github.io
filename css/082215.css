@@ -1,0 +1,58 @@
+.version._082215 /* version checker */
+{
+	color: #000014;
+	background-color: #B0B549;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1767
+{
+	z-index: 4;
+	width: 386px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 60px;
+}
+
+#u1767_img
+{
+	padding-bottom: 1px;
+}
+
+#u1761
+{
+	z-index: 2;
+	width: 386px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 514px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

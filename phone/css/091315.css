@@ -1,0 +1,63 @@
+.version._091315 /* version checker */
+{
+	color: #0000E9;
+	background-color: #807B98;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/fullsizerender-1.jpg") no-repeat center top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 273px;
+	min-height: 428px;
+	padding: 71px 53px 71px 54px;
+}
+
+#u1977
+{
+	z-index: 2;
+	width: 273px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

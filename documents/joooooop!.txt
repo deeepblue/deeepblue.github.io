@@ -1,0 +1,19 @@
+OBJECT - - - joooooop!
+
+DATE - - - Friday July 3rd 2015
+REL - - - .25
+PRIORITY - - - 89% critical
+
+LOC - - - : local
+ : Deep Blue
+ : 49.2686033, -123.0990657
+
+COMM:
+ : PLO Man
+ : C3DEEEJAY
+ : A.R.N.P
+
+ : FREQ - - - unknown
+ : ECM - - - unknown
+ : ConARM - - - none
+ : EW - - - unknown

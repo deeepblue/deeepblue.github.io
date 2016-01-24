@@ -1,0 +1,36 @@
+.version._013015 /* version checker */
+{
+	color: #0000FB;
+	background-color: #68280A;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/img_25413.jpg") repeat-y left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	padding-top: 62px;
+	padding-right: 960px;
+	padding-bottom: 438px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 1568px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,36 +1,53 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1446095784454">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1453603463004">
+  <folder name="phone">
+    <folder name="css">
+      <file name="091315.css" crc="3917511576" ref="phone>091315"/>
+      <file name="013015.css" crc="441325172" ref="phone>013015"/>
+      <file name="index.css" crc="3959265004" ref="phone>index"/>
+      <file name="082215.css" crc="3981143037" ref="phone>082215"/>
+    </folder>
+    <file name="index.html" crc="4238533545" mt="1453602009207" redirect="true"/>
+    <file name="013015.html" crc="3947487925" mt="1453602467539" redirect="false"/>
+    <file name="091315.html" crc="4257437491" mt="1453602580062" redirect="true"/>
+    <file name="082215.html" crc="432656555" mt="1453602331757" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="208753328"/>
-    <file name="index.css" crc="472797200" ref="index"/>
-    <file name="about.css" crc="476780979" ref="about"/>
-    <file name="archives.css" crc="4244130039" ref="archives"/>
-    <file name="artists.css" crc="4259739233" ref="artists"/>
-    <file name="mixes.css" crc="365418475" ref="mixes"/>
+    <file name="index.css" crc="459383734" ref="index"/>
+    <file name="013015.css" crc="4217907210" ref="013015"/>
+    <file name="082215.css" crc="347125065" ref="082215"/>
+    <file name="091315.css" crc="278211121" ref="091315"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:archives:about:mixes:artists"/>
-    <file name="museutils.js" crc="212726984" ref="index:archives:about:mixes:artists"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:archives:about:mixes:artists"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="index:mixes"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:phone>index:phone>013015:phone>091315:phone>082215:013015:091315:082215"/>
+    <file name="museutils.js" crc="212726984" ref="index:phone>index:phone>013015:phone>091315:phone>082215:013015:091315:082215"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:phone>index:phone>013015:phone>091315:phone>082215:013015:091315:082215"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="phone>091315:091315"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="phone>index"/>
+    <file name="museredirect.js" crc="3986430445" ref="index:091315:082215"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="419847451" ref="index"/>
-    <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="330338519" ref="archives"/>
-    <file name="img_2541.jpg" crc="4105995107" ref="archives"/>
-    <file name="joooooop.jpg" crc="36807168" ref="archives"/>
-    <file name="final flyer.jpg" crc="3909144369" ref="archives"/>
-    <file name="deepblue2.jpg" crc="478011797" ref="index"/>
-    <file name="logo.png" crc="3768106124" ref="index"/>
-    <file name="digitalpromo.png" crc="502999366" ref="archives"/>
-    <file name="12169600_961623600546351_254669798_o.jpg" crc="196333027" ref="about"/>
-    <file name="mixes-favicon.ico" crc="4287277662" ref="mixes"/>
-    <file name="lightning-010.gif" crc="235895460" ref="mixes"/>
-    <file name="tr-909.gif" crc="3785235343" ref="mixes"/>
-    <file name="tumblr_m9hjukpvet1qgyb21o1_500.gif" crc="307834496" ref="artists"/>
+    <file name="favicon.ico" crc="279494934" ref="index"/>
+    <file name="scan-may-22,-2015,-7_41-pm.jpg" crc="34528217" ref="phone>index:index"/>
+    <file name="img_2541.jpg" crc="290419286" ref="phone>index:index"/>
+    <file name="joooooop.jpg" crc="4219194590" ref="phone>index:index"/>
+    <file name="final flyer.jpg" crc="3923751767" ref="phone>index:index"/>
+    <file name="digitalpromo.png" crc="4175656692" ref="phone>index:index"/>
+    <file name="logo 2-crop-u1935.png" crc="142146417" ref="phone>index"/>
+    <file name="img_0616.jpg" crc="254540498" ref="phone>index:index"/>
+    <file name="unnamed-2.jpg" crc="4213031713" ref="phone>index:index"/>
+    <file name="nap flyer alternative.jpg" crc="416093659" ref="phone>index:index"/>
+    <file name="scan jun 17, 2015, 9_50 pm.jpg" crc="418623968" ref="phone>index:index"/>
+    <file name="img_25412.jpg" crc="4105995107" ref="phone>013015"/>
+    <file name="fullsizerender-1.jpg" crc="273066930" ref="phone>091315:091315"/>
+    <file name="plush 1.png" crc="211942841" ref="phone>091315:091315"/>
+    <file name="party_flyer_for_web.jpg" crc="209343761" ref="phone>082215:082215"/>
+    <file name="rear final with stretches.jpg" crc="322824270" ref="phone>082215:082215"/>
+    <file name="logo 2-crop-u1589.png" crc="391144771" ref="index"/>
+    <file name="img_25413.jpg" crc="4105995107" ref="013015"/>
   </folder>
-  <file name="index.html" crc="133628670" mt="1446095716343" redirect="true"/>
-  <file name="archives.html" crc="160731715" mt="1446091991974" redirect="true"/>
-  <file name="about.html" crc="4008337538" mt="1446095710740" redirect="true"/>
-  <file name="mixes.html" crc="430450363" mt="1446092375768" redirect="true"/>
-  <file name="artists.html" crc="265803406" mt="1446095153721" redirect="true"/>
+  <file name="index.html" crc="3918812888" mt="1453602726685" redirect="true"/>
+  <file name="013015.html" crc="4266785554" mt="1453602726686" redirect="false"/>
+  <file name="091315.html" crc="242378282" mt="1453602726687" redirect="true"/>
+  <file name="082215.html" crc="3990280654" mt="1453602726687" redirect="true"/>
 </manifest>
