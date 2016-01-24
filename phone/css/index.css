@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #4BA833;
+	color: #0000E1;
+	background-color: #E990AE;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 2427.8142628440355px;
+	min-height: 2427.814262844039px;
 	padding-bottom: 0px;
 }
 
@@ -51,6 +51,9 @@
 {
 	z-index: 34;
 	width: 380px;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
 	position: relative;
 }
 
@@ -66,6 +69,13 @@
 	margin-left: -72px;
 	margin-right: -16px;
 	margin-bottom: -17px;
+}
+
+.js #u2007.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
 }
 
 #u1947-4

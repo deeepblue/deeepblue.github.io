@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -13,7 +13,7 @@
   <link rel="canonical" href="http://www.deeep.blue/index.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?208753328"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?3930826803" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3790180526" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -23,7 +23,7 @@
 
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div class="clip_frame clearfix colelem" id="u2007"><!-- image -->
+    <div class="clip_frame clearfix ose_pre_init colelem" id="u2007"><!-- image -->
      <div id="u2007_clip">
       <img class="position_content" id="u2007_img" src="../images/logo%202%20rotate.png" alt="" width="468" height="2181"/>
      </div>
@@ -61,6 +61,7 @@
    window.jQuery || document.write('\x3Cscript src="../scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="../scripts/museutils.js?212726984" type="text/javascript"></script>
+  <script src="../scripts/jquery.scrolleffects.js?519931148" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?4125239756" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -70,6 +71,7 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 "undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();(Muse.assets.outOfDate.length||Muse.assets.required.length)&&alert("Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.")})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+$('#u2007').registerOpacityScrollEffect([{"in":[-Infinity,1610.15],"opacity":100,"fade":550.15},{"in":[1610.15,1610.15],"opacity":80},{"in":[1610.15,Infinity],"opacity":0,"fade":420.05}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

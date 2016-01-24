@@ -1,12 +1,12 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1453604214544">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1453604652743">
   <folder name="phone">
     <folder name="css">
       <file name="091315.css" crc="3917511576" ref="phone>091315"/>
       <file name="013015.css" crc="441325172" ref="phone>013015"/>
-      <file name="index.css" crc="3930826803" ref="phone>index"/>
+      <file name="index.css" crc="3790180526" ref="phone>index"/>
       <file name="082215.css" crc="3981143037" ref="phone>082215"/>
     </folder>
-    <file name="index.html" crc="5455505" mt="1453604204296" redirect="true"/>
+    <file name="index.html" crc="384389481" mt="1453604647617" redirect="true"/>
     <file name="013015.html" crc="3947487925" mt="1453602467539" redirect="false"/>
     <file name="091315.html" crc="4257437491" mt="1453602580062" redirect="true"/>
     <file name="082215.html" crc="432656555" mt="1453602331757" redirect="true"/>
@@ -24,6 +24,7 @@
     <file name="jquery.watch.js" crc="4125239756" ref="index:phone>index:phone>013015:phone>091315:phone>082215:013015:091315:082215"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="phone>091315:091315"/>
     <file name="museredirect.js" crc="3986430445" ref="index:091315:082215"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="279494934" ref="index"/>
